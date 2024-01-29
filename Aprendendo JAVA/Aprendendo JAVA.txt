@@ -1,0 +1,35 @@
+Aprendendo JAVA
+Pare iniciar um programa no java, antes de tudo você precisa abrir esse comando
+public class App {
+    public static void main(String[] args)
+}
+
+Digitar "psvm" automaticamente ele preenche --> public static void main(String[ ] args) throws Exception
+
+Para mostrar na tela no java, gititamos -> System.out.print ou println pra quebrar linha.
+System = sistema - out = saida - print = imprimar
+
+também pode ser abreviado digitando "sout".
+
+Com java usamos as chaves " { }" e ponto e virgula " ; ".
+
+Tecnica CamelCase(tecnica que parece corcovas do camelo)
+ex --> TauanAnjosNascimento = São 3 palavras, sempre que a primeira palavra estiver em maiúscula, ela representa uma classe/interface
+
+Se a primeira letra for "Minúscula" ela pode ser = um atributo, uma variavel ou um metodo.
+
+Ex Atributo = nomeAluno
+
+Ex Variável = mediaPrimeiroBimestre
+
+Ex Método = lancarNotaAluno
+
+Nesses exemplos acima, vimos que a primeira letrasé sempre minúsculas, e o resto usa o camelcase.
+Mas se encontrar a palavra com todas letras minúsculas, ela é nome do pacote.
+Ex nome do pacote: meu_pacote = tauananjosnascimento
+
+Já se encontrar todos os nomes em letras maiúsculas, ela é uma constante.
+Ex constante: MINHA_CONSTANTE = VALOR_DE_PI , que é sempre constante.
+
+relogio = New --> quando vc coloca o "New " nessa situação, quer dizer que vc está criando novo objeto.
+
